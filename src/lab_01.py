@@ -4,6 +4,17 @@ import numpy as np
 
 
 def lab_01():
+    """
+    This lab demonstrates the basic functionalities of the NumPy library.
+    It covers array creation, attributes, arithmetic operations, statistical functions,
+    and indexing/slicing of arrays.
+    Steps:
+    1. Create different types of NumPy arrays (1D, 2D, zeros, ones, range).
+    2. Explore array attributes such as shape, size, and data type.
+    3. Perform basic arithmetic operations and use universal mathematical functions.
+    4. Calculate statistical measures like mean, median, standard deviation, etc.
+    5. Demonstrate indexing and slicing of arrays.
+    """
     print("=== 1. ARRAY CREATION ===")
 
     # Creating a 1D array

@@ -1,0 +1,32 @@
+[
+    {
+        "Student_ID":101,
+        "Name":"Alice",
+        "Score":85,
+        "Passed":true
+    },
+    {
+        "Student_ID":102,
+        "Name":"Bob",
+        "Score":92,
+        "Passed":true
+    },
+    {
+        "Student_ID":103,
+        "Name":"Charlie",
+        "Score":78,
+        "Passed":true
+    },
+    {
+        "Student_ID":104,
+        "Name":"Diana",
+        "Score":95,
+        "Passed":true
+    },
+    {
+        "Student_ID":105,
+        "Name":"Ethan",
+        "Score":88,
+        "Passed":true
+    }
+]
